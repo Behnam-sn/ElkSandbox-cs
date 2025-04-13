@@ -1,0 +1,6 @@
+@ElkSandbox.WebApi_HostAddress = http://localhost:5258
+
+GET {{ElkSandbox.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
